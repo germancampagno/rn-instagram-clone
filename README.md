@@ -15,4 +15,5 @@ After running `npx expo start`, clear instructions will appear in the terminal, 
 Nice to have:
 - ESLint
 - Localizable Strings
-  
+- Unit tests
+- UI Tests
