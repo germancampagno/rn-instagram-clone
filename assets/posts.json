@@ -1,0 +1,28 @@
+[
+    {
+        "createdAt": "2024-04-17T14:06:19.118Z",
+        "name": "Iris Quitzon",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/388.jpg",
+        "description": "asymmetric",
+        "likes": 71953,
+        "image": "https://loremflickr.com/640/480",
+        "comments": 21092,
+        "liked": true,
+        "saved": true,
+        "location": "Salinas",
+        "id": "1"
+    },
+    {
+        "createdAt": "2024-04-17T19:10:25.020Z",
+        "name": "Alberta Little",
+        "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/885.jpg",
+        "description": "discrete",
+        "likes": 64327,
+        "image": "https://loremflickr.com/640/480",
+        "comments": 52193,
+        "liked": true,
+        "saved": false,
+        "location": "Ponce",
+        "id": "2"
+    }
+]
