@@ -1,8 +1,12 @@
-# rn-instagram-clone
-Simple Instagram feed clone in React Native
+# React Native Instagram Feed Clone
+*Simple Instagram feed clone in React Native*
 
 
+| Feed    | Search/Other tabs     |
+|------------|-------------|
+| <img src="https://github.com/user-attachments/assets/2c387538-5552-4a1a-ab44-12f8d9d6a30f" width="250"> | <img src="https://github.com/user-attachments/assets/fd529e70-c436-4027-a9ce-ffc8f89f22bd" width="250"> |
 
+## Testing 🚀
 Since this project has been developed with Expo Go for ease of use, in order to test it, run the following commands:
 
 - npm install
@@ -12,8 +16,9 @@ After running `npx expo start`, clear instructions will appear in the terminal, 
 
 
 
-Nice to have:
+## Nice to have 👀
 - ESLint
 - Localizable Strings
 - Unit tests
 - UI Tests
+- Dark Mode compatibility
