@@ -2,7 +2,7 @@
 *Simple Instagram feed clone in React Native*
 
 
-| Feed    | Search/Other tabs     |
+| Feed    | Other tabs     |
 |------------|-------------|
 | <img src="https://github.com/user-attachments/assets/2c387538-5552-4a1a-ab44-12f8d9d6a30f" width="250"> | <img src="https://github.com/user-attachments/assets/fd529e70-c436-4027-a9ce-ffc8f89f22bd" width="250"> |
 
